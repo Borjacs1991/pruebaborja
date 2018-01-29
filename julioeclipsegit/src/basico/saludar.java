@@ -7,6 +7,7 @@ public class saludar {
 		
 		System.out.println("Hola soy Julio");
 		System.out.println("Que dices Julio!!! Soy Borja... :D");
+		System.out.println("Julio esto tambien lo ves??!!");
 	}
 
 }
